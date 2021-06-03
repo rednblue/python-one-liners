@@ -1,4 +1,5 @@
 import list_comprehension as lc
+import algorithms as a
 from unittest import main
 
 """
